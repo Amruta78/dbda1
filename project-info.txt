@@ -1,4 +1,0 @@
-Data  username ------amruta
-password   -------amru@123
-
-Aws security token ---$ubndsahvss
